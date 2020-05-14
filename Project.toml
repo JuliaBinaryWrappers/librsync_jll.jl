@@ -1,0 +1,12 @@
+name = "librsync_jll"
+uuid = "6c5fa084-3dbe-5c56-adb0-3ea4e9e901c0"
+version = "2.3.1+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Bzip2_jll = "6e34b625-4abd-537c-b88f-471c36dfa7a0"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

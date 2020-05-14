@@ -1,0 +1,113 @@
+[[librsync]]
+arch = "i686"
+git-tree-sha1 = "f4e4b937542c4e2dcee7462036fcac8ba9d3aac7"
+libc = "musl"
+os = "linux"
+
+    [[librsync.download]]
+    sha256 = "df0a97518c570ef3fd317fa8f085ea9abeef960b85d3b67ba09074b9327cc1b4"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.i686-linux-musl.tar.gz"
+[[librsync]]
+arch = "aarch64"
+git-tree-sha1 = "0d2f0b1fec9001668d6fa7c388ad5459bbdf0fdd"
+libc = "musl"
+os = "linux"
+
+    [[librsync.download]]
+    sha256 = "2bbfac734fbd2cdfee848b67e4ff4b9365d7a295649573c32066fbd9974f8736"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.aarch64-linux-musl.tar.gz"
+[[librsync]]
+arch = "i686"
+git-tree-sha1 = "ee13b3b18d2fe4e580f063ecc8c00ea394d2f6f9"
+os = "windows"
+
+    [[librsync.download]]
+    sha256 = "eb6bcc650e8a1e080928327d98cea17ee92580c737ffaa6faf9d9648f977fa15"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.i686-w64-mingw32.tar.gz"
+[[librsync]]
+arch = "x86_64"
+git-tree-sha1 = "b5587316803d8571495334ac1978812e2ed5f6e6"
+os = "windows"
+
+    [[librsync.download]]
+    sha256 = "87a218da58ca04a4572bd1a28c178adec55d694fa647384f7fba37e10f3d348e"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.x86_64-w64-mingw32.tar.gz"
+[[librsync]]
+arch = "armv7l"
+git-tree-sha1 = "2dba922fc6c450272375284a21c403a94284c851"
+libc = "glibc"
+os = "linux"
+
+    [[librsync.download]]
+    sha256 = "a89fe723daae3f7d6417c2ec625d2eee72f92c5eba97743165f02911256cefed"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.armv7l-linux-gnueabihf.tar.gz"
+[[librsync]]
+arch = "armv7l"
+git-tree-sha1 = "98b52934a8f0fd04ccc3350aafa8fd966dd5f440"
+libc = "musl"
+os = "linux"
+
+    [[librsync.download]]
+    sha256 = "fe30fa54730a501a6fb85a937cf4f942cbe748ee9b71456a1b9c0cad130f7b37"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.armv7l-linux-musleabihf.tar.gz"
+[[librsync]]
+arch = "i686"
+git-tree-sha1 = "32d85c3c7e4f31ae4db147b073e7e9fffed2fdf5"
+libc = "glibc"
+os = "linux"
+
+    [[librsync.download]]
+    sha256 = "dbd32ffc9aa66d15f226ae8da728481ac430364cf0941bc2aab0f669b7ceea5d"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.i686-linux-gnu.tar.gz"
+[[librsync]]
+arch = "x86_64"
+git-tree-sha1 = "cca64cd96c7e9115037faaf87ab151015e266953"
+libc = "glibc"
+os = "linux"
+
+    [[librsync.download]]
+    sha256 = "1f40dbdc8e6c4fd7c02c934490cb59aa5719b28d440a980e037f12e95e1d0f3e"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.x86_64-linux-gnu.tar.gz"
+[[librsync]]
+arch = "powerpc64le"
+git-tree-sha1 = "3d88bf8a9bf766c69f4cc8cf9e6e4b32b694b90f"
+libc = "glibc"
+os = "linux"
+
+    [[librsync.download]]
+    sha256 = "214fb305b7880c59868a92f098381697b1587e1cce5b2ceda99b9dbff397324e"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.powerpc64le-linux-gnu.tar.gz"
+[[librsync]]
+arch = "x86_64"
+git-tree-sha1 = "16053ba3b56f4f7cae4497665e9684661483b48a"
+os = "macos"
+
+    [[librsync.download]]
+    sha256 = "3d6be0ceb3a8b97251a0683905340e3babf24182cf302cf87ef0c6cdafa7815b"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.x86_64-apple-darwin14.tar.gz"
+[[librsync]]
+arch = "aarch64"
+git-tree-sha1 = "e85d40f4b9023a8363295f9654c51362e1d91772"
+libc = "glibc"
+os = "linux"
+
+    [[librsync.download]]
+    sha256 = "dff07b97150ca9ed55a6ab2956a538a7775a90aa52482e76fa3fa8642e0208b9"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.aarch64-linux-gnu.tar.gz"
+[[librsync]]
+arch = "x86_64"
+git-tree-sha1 = "cb4f7224f64a94d568c7f161058ad082425e012d"
+os = "freebsd"
+
+    [[librsync.download]]
+    sha256 = "a6d74c9f5bd04f7713bdd1c0ecfd8d7c47ab32fb1b577bc42ed696631ebd08e9"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[librsync]]
+arch = "x86_64"
+git-tree-sha1 = "ba4fdda1e1191f6763c9dbd7ccfec88fc6b9e4cd"
+libc = "musl"
+os = "linux"
+
+    [[librsync.download]]
+    sha256 = "deee958358682b34c03af73a2c9386ac893c90ca9184f28a7e45310e33fa15d5"
+    url = "https://github.com/JuliaBinaryWrappers/librsync_jll.jl/releases/download/librsync-v2.3.1+0/librsync.v2.3.1.x86_64-linux-musl.tar.gz"
